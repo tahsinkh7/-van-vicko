@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXT-X-VERSION:ISPY
+#EXT-X-VERSION:7
 ## Created BY ISPY (version=1.11.16-26430)
 
 #iisspy
@@ -14,3 +14,4 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Eng_IDC_AND/Fallback/JC
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Eng_IDC_AND/Fallback/JC_Cricket_Eng_IDC_AND-audio_108034_eng=108000-video=305200.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=384000,AVERAGE-BANDWIDTH=349000,CODECS="mp4a.40.2,avc1.42E015",RESOLUTION=426x240,FRAME-RATE=60
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Eng_IDC_AND/Fallback/JC_Cricket_Eng_IDC_AND-audio_75235_eng=75200-video=254000.m3u8
+

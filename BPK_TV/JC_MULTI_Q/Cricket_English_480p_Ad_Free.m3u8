@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:7
+## Created BY ISPY (version=1.11.16-26430)
+
+#480p
+#EXT-X-STREAM-INF:BANDWIDTH=637000,AVERAGE-BANDWIDTH=579000,CODECS="mp4a.40.2,avc1.4D401E",RESOLUTION=854x480,FRAME-RATE=60
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Eng_IDC_AND/Fallback/JC_Cricket_Eng_IDC_AND-audio_108034_eng=108000-video=438000.m3u8
